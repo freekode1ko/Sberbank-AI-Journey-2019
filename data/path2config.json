@@ -1,0 +1,1 @@
+{"model_name_to_save": "lm_5_ep_lr2-3_5_stlr", "dict_name_to_save": "itos", "tf_vectorizer_path": "data/tfvect.joblib", "lda_path": "data/lda.joblib", "topics_path": "data/topics.csv"}
